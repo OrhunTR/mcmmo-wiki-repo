@@ -14,6 +14,9 @@ dateCreated: 2024-04-13T18:14:01.830Z
 
 Tridents skill involves impaling foes with your trident.
 
+Impale 
+Increases damage done with with tridents.
+
 ## XP Gain
 
 XP is gained whenever you hit mobs with a trident.
